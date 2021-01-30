@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "Volkan Unsal <spocksplanet@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/foo.js",
   "directories": {
     "lib": "lib",
@@ -23,5 +23,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "0345f9511af0fdec7e5624eeecb8a0a18d44b2f4"
 }
