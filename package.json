@@ -2,5 +2,9 @@
   "dependencies": {
     "lerna": "^3.22.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:volkanunsal/demo.git"
+  },
   "name": "demo"
 }
