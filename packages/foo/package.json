@@ -13,6 +13,14 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/volkanunsal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:volkanunsal/demo.git",
+    "directory": "packages/foo"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
